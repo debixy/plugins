@@ -1,0 +1,11 @@
+.DS_Store
+/vendor
+/.idea
+/.vscode
+/.vagrant
+composer.lock
+Homestead.json
+Homestead.yaml
+yarn-error.log
+.phpunit.result.cache
+.php_cs.cache
